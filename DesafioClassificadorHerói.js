@@ -1,4 +1,4 @@
-let heroi = "jack";
+let heroi = "Feiticeira Escarlate";
 let PX = 5.001;
 let nivelDePoder = "";
 
